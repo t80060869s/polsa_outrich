@@ -1,0 +1,4 @@
+aiogram
+aiofiles
+chardet
+python-dotenv

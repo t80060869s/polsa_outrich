@@ -1,0 +1,6 @@
+test@gmail.com
+admin@not-exist-domain.com
+info@россия.рф
+info@торги-россии.рф
+иван@мойдомен.бел
+админ@инокентий.рф
